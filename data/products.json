@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Brosse à dents en bambou",
+    "slug": "brosse-dents-bambou",
+    "price": 3.9,
+    "eco_score": 92,
+    "category": "hygiène",
+    "stock": 100,
+    "image": "/images/p1.webp",
+    "description": "Brosse écologique en bambou biodégradable"
+  },
+  {
+    "id": 2,
+    "name": "Sac réutilisable coton bio",
+    "slug": "sac-coton-bio",
+    "price": 9.9,
+    "eco_score": 88,
+    "category": "maison",
+    "stock": 50,
+    "image": "/images/p2.webp",
+    "description": "Sac durable pour vos courses"
+  }
+  
+]
