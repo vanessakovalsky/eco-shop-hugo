@@ -1,0 +1,9 @@
+baseURL = "/"
+languageCode = "fr-fr"
+title = "Eco Shop"
+
+[params]
+  description = "Boutique éco responsable"
+
+[outputs]
+  home = ["HTML", "JSON"]
